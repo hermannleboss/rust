@@ -21,6 +21,23 @@ cd guessing_game
 cargo run
 ```
 
+### Temperature Converter
+
+A console application that converts temperatures between Fahrenheit and Celsius:
+
+- Interactive menu system
+- Bidirectional temperature conversion
+- Input validation and error handling
+- Floating-point arithmetic
+- Function organization and code reusability
+
+**To run:**
+
+```bash
+cd temperature_converter
+cargo run
+```
+
 ## Getting Started
 
 Each project is a standalone Rust application with its own `Cargo.toml` file. Navigate to the project directory and use `cargo run` to build and execute the program.
